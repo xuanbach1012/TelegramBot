@@ -4,7 +4,7 @@ from flask import Response
 import requests
 from bs4 import BeautifulSoup
 
-TOKEN = "5741011341:AAHmFgfSng0_Nw3nf4mCxwHPkckz8Zu-KiA"
+TOKEN = "Yourtoken"
  
 app = Flask(__name__)
  
